@@ -1,4 +1,3 @@
-Here’s a complete `README.md` file for your **Missionaries and Cannibals AI project**, ready to upload to GitHub:
 
 ---
 
@@ -101,5 +100,3 @@ This project is for educational use and distributed under the [MIT License](LICE
 
 ---
 
-Would you like me to save this as a downloadable `README.md` file for you?
-```
